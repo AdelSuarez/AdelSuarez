@@ -3,8 +3,6 @@
   <h1 align="center">Hi 👋, I'm S U A R E Z, engineering student</h1>
 </div>
 
-### Hi there 👋
-
 <!--
 **AdelSuarez/AdelSuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
