@@ -14,7 +14,4 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=SUAREZ&theme=gruvbox&hide_border=true&border_radius=4.2)](https://git.io/streak-stats"/>
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelSuarez&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-</div>
+
