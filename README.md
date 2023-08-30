@@ -10,8 +10,5 @@
 - 📈 I constantly improve my skills
 
 ---
-### Statistics
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=SUAREZ&theme=gruvbox&hide_border=true&border_radius=4.2)](https://git.io/streak-stats"/>
-</div>
+
 
