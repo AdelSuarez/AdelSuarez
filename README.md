@@ -11,7 +11,7 @@
 
 ---
 
-<p align="left" style="margin-left: 30px;"> 
+<p align="center" style="margin-left: 30px;"> 
   <a>
     <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   </a> 
