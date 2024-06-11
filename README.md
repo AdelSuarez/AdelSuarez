@@ -36,7 +36,14 @@
   <a> 
    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   </a> 
+  <a> 
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a> 
+  
 </p>
+
+---
+
 <p align="center">
 <a>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdelSuarez&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats">
