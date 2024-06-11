@@ -29,6 +29,9 @@
   </a>  
   <a> 
    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  </a>
+  <a> 
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   </a> 
 </p>
 <p align="center">
